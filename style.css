@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: url('background.jpg') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+}
+
+header {
+    padding: 20px;
+    background: rgba(0,0,0,0.6);
+}
+
+.logo {
+    max-width: 120px;
+}
+
+.subtitle {
+    font-size: 1.2em;
+    color: #ffb300; /* янтарный */
+}
+
+.tariffs {
+    background: rgba(0,0,0,0.6);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #2a2a2a;
+}
+
+.whatsapp-button {
+    display: inline-block;
+    background-color: #25d366;
+    padding: 12px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 1.2em;
+}
+
+.whatsapp-button:hover {
+    background-color: #1ebe57;
+}
+
+footer {
+    background: rgba(0,0,0,0.6);
+    padding: 10px;
+    font-size: 0.9em;
+    margin-top: 20px;
+}

@@ -12,7 +12,8 @@ header {
 }
 
 .logo {
-    max-width: 120px;
+    max-width: 200px;
+    height: auto;    
 }
 
 .subtitle {
@@ -62,4 +63,5 @@ footer {
     padding: 10px;
     font-size: 0.9em;
     margin-top: 20px;
+
 }
